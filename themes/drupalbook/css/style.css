@@ -16,6 +16,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=cyrillic,cyrillic-ext");
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -6369,5 +6370,50 @@ p:last-child,
   .help-block:first-child, .control-group .help-inline:first-child {
     margin-top: 0; }
 
-body {
-  color: blue; }
+@media screen and (min-width: 768px) {
+  #block-drupalbook-search {
+    display: none; } }
+
+header.navbar {
+  height: 150px;
+  background: rgba(255, 255, 255, 0.85); }
+  header.navbar .navbar-toggle {
+    margin-top: 56px; }
+
+#block-logotip {
+  line-height: 150px; }
+
+#block-drupalbook-main-menu {
+  line-height: 150px; }
+  @media screen and (min-width: 768px) {
+    #block-drupalbook-main-menu ul {
+      height: 150px;
+      line-height: 150px;
+      text-align: right;
+      float: right; } }
+  @media screen and (min-width: 768px) {
+    #block-drupalbook-main-menu ul li {
+      line-height: 150px;
+      float: none;
+      display: inline-block; } }
+  #block-drupalbook-main-menu ul li a {
+    color: #050622;
+    font-size: 14px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    padding: 15px; }
+    #block-drupalbook-main-menu ul li a:hover {
+      color: #050622;
+      border: 2px solid #050622;
+      padding: 13px; }
+
+.region-navigation {
+  float: left; }
+
+@media screen and (max-width: 767px) {
+  #navbar-collapse {
+    background: rbga(255, 255, 255, 0.85); } }
+
+@media screen and (min-width: 768px) {
+  #navbar-collapse #block-drupalbook-main-menu {
+    float: none; } }
