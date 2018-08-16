@@ -5,3 +5,11 @@
  *
  * Place your custom PHP code in this file.
  */
+
+function drupalbook_preprocess_block($variables){
+    if($variables['elements']['#id'] == 'fonnaglavnuu'){
+        $url = '';
+        $variables['background_image_url'] = $url;
+    }
+
+}

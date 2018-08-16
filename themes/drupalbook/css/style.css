@@ -6370,6 +6370,9 @@ p:last-child,
   .help-block:first-child, .control-group .help-inline:first-child {
     margin-top: 0; }
 
+#block-fonnaglavnuu {
+  height: 700px; }
+
 @media screen and (min-width: 768px) {
   #block-drupalbook-search {
     display: none; } }
