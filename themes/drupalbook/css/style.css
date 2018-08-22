@@ -6371,7 +6371,22 @@ p:last-child,
     margin-top: 0; }
 
 #block-fonnaglavnuu {
-  height: 700px; }
+  min-height: 700px;
+  background-size: cover !important; }
+  #block-fonnaglavnuu .field--name-body {
+    margin-top: 300px;
+    font-size: 42px;
+    text-transform: uppercase;
+    color: #0f0f0f;
+    font-weight: 300;
+    font-family: "Open Sans", Arial, sans-serif;
+    text-align: center; }
+    #block-fonnaglavnuu .field--name-body p {
+      background-color: rgba(255, 255, 255, 0.5);
+      display: inline;
+      padding-left: 10px;
+      padding-left: 10px;
+      line-height: 170%; }
 
 @media screen and (min-width: 768px) {
   #block-drupalbook-search {
@@ -6379,7 +6394,8 @@ p:last-child,
 
 header.navbar {
   height: 150px;
-  background: rgba(255, 255, 255, 0.85); }
+  background: rgba(255, 255, 255, 0.5);
+  border: 0; }
   header.navbar .navbar-toggle {
     margin-top: 56px; }
 
@@ -6415,8 +6431,11 @@ header.navbar {
 
 @media screen and (max-width: 767px) {
   #navbar-collapse {
-    background: rbga(255, 255, 255, 0.85); } }
+    background: rbga(255, 255, 255, 0.5); } }
 
 @media screen and (min-width: 768px) {
   #navbar-collapse #block-drupalbook-main-menu {
     float: none; } }
+
+body.navbar-is-fixed-top {
+  margin: 0; }

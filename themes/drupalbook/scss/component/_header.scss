@@ -1,7 +1,8 @@
 header.navbar
 {
   height: 150px;
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.50);
+  border: 0;
 
   .navbar-toggle {
     margin-top: 56px;
@@ -49,7 +50,7 @@ header.navbar
 
 #navbar-collapse {
   @media #{$mobile}{
-    background: rbga(255, 255, 255, 0.85);
+    background: rbga(255, 255, 255, 0.50);
   }
 
   #block-drupalbook-main-menu {
@@ -59,3 +60,6 @@ header.navbar
   }
 }
 
+body.navbar-is-fixed-top {
+  margin: 0;
+}
