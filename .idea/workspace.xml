@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0f97e44-3190-42eb-a8b3-cde0a8b4ea2e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/2018-08/slide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/inline-images/logo_0.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/inline-images/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2018-08/slide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/drupalbook/images/logo.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/drupalbook/images/slide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/drupalbook/images/start_nemcha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/drupalbook/images/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/languages/ru_TiRHOzPphBo0wZ3gEzT1lKmuCd1bWI4WrmFOmjg2fG0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/translations/admin_toolbar-8.x-1.24.ru.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/translations/entity_reference_revisions-8.x-1.2.ru.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/files/translations/paragraphs-8.x-1.1.ru.po" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/drupalbook/css/style.css" afterPath="$PROJECT_DIR$/themes/drupalbook/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/drupalbook/drupalbook.theme" afterPath="$PROJECT_DIR$/themes/drupalbook/drupalbook.theme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/drupalbook/scss/blocks/_background_fontpage.scss" afterPath="$PROJECT_DIR$/themes/drupalbook/scss/blocks/_background_fontpage.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/drupalbook/scss/component/_header.scss" afterPath="$PROJECT_DIR$/themes/drupalbook/scss/component/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/drupalbook/templates/block/block--fonnaglavnuu.html.twig" afterPath="$PROJECT_DIR$/themes/drupalbook/templates/block/block--fonnaglavnuu.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig" afterPath="$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig" />
     </list>
     <ignored path="nbchurch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +41,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/drupalbook/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108341">
+            <state relative-caret-position="108902">
               <caret line="6406" column="0" selection-start-line="6406" selection-start-column="0" selection-end-line="6406" selection-end-column="0" />
               <folding>
                 <marker date="1534961466644" expanded="true" signature="166054:166069" ph="{...}" />
@@ -87,11 +93,9 @@
       <file leaf-file-name="block--fonnaglavnuu.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--fonnaglavnuu.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
+            <state relative-caret-position="986">
               <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,7 +103,7 @@
       <file leaf-file-name="drupalbook.theme" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.theme">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="102">
               <caret line="11" column="40" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="40" />
               <folding>
                 <element signature="e#6#93#0#PHP" expanded="true" />
@@ -131,11 +135,9 @@
       <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
+            <state relative-caret-position="1870">
               <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
-              <folding>
-                <marker date="1534958146877" expanded="true" signature="4449:4518" ph="{% block header ...%}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -221,6 +223,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,7 +285,15 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupalbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,18 +307,64 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
+              <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="paragraphs" />
+              <option name="myItemId" value="drupalbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".bin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nbchurch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nbchurch" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drupalbook" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nbchurch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nbchurch" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -402,7 +460,8 @@
       <workItem from="1534190666335" duration="992000" />
       <workItem from="1534351262512" duration="7393000" />
       <workItem from="1534443612711" duration="3517000" />
-      <workItem from="1534957938700" duration="5358000" />
+      <workItem from="1534957938700" duration="5529000" />
+      <workItem from="1535134862285" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1533846015015</created>
@@ -453,11 +512,25 @@
       <option name="project" value="LOCAL" />
       <updated>1534448401507</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" Картинка на главной">
+      <created>1534965760924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534965760924</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Модули">
+      <created>1534965819707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534965819707</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32070000" />
+    <option name="totallyTimeSpent" value="32919000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -472,17 +545,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676248" sideWeight="0.2887139" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676248" sideWeight="0.71128607" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24054463" sideWeight="0.29787233" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24054463" sideWeight="0.70212764" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5155483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3764321" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23676248" sideWeight="0.28477904" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23676248" sideWeight="0.28477904" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3764321" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -521,7 +594,9 @@
     <MESSAGE value="first" />
     <MESSAGE value="Настрйки системы" />
     <MESSAGE value="Меню и шапка" />
-    <option name="LAST_COMMIT_MESSAGE" value="Меню и шапка" />
+    <MESSAGE value=" Картинка на главной" />
+    <MESSAGE value="Модули" />
+    <option name="LAST_COMMIT_MESSAGE" value="Модули" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -573,9 +648,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
-          <folding>
-            <marker date="1534958146877" expanded="true" signature="4449:4518" ph="{% block header ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,9 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
           <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
-          <folding>
-            <marker date="1534958146877" expanded="true" signature="4449:4518" ph="{% block header ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -836,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,7 +936,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108341">
+        <state relative-caret-position="108902">
           <caret line="6406" column="0" selection-start-line="6406" selection-start-column="0" selection-end-line="6406" selection-end-column="0" />
           <folding>
             <marker date="1534961466644" expanded="true" signature="166054:166069" ph="{...}" />
@@ -885,7 +954,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.theme">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="102">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
@@ -895,21 +964,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="1870">
           <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
-          <folding>
-            <marker date="1534958146877" expanded="true" signature="4449:4518" ph="{% block header ...%}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--fonnaglavnuu.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
+        <state relative-caret-position="986">
           <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
