@@ -6392,6 +6392,10 @@ p:last-child,
   #block-drupalbook-search {
     display: none; } }
 
+#block-service {
+  background: #dfbb98;
+  color: #0f0f0f; }
+
 header.navbar {
   height: 150px;
   background: rgba(255, 255, 255, 0.5);
@@ -6439,3 +6443,6 @@ header.navbar {
 
 body.navbar-is-fixed-top {
   margin: 0; }
+
+body {
+  font-family: "Open Sans", Arial, sans-serif; }
