@@ -6394,7 +6394,33 @@ p:last-child,
 
 #block-service {
   background: #ffffff;
-  color: #0f0f0f; }
+  color: #0f0f0f;
+  padding-top: 40px;
+  padding-bottom: 40px; }
+  #block-service h2 {
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 30px;
+    position: relative;
+    text-transform: uppercase; }
+    #block-service h2:after {
+      width: 45px;
+      height: 2px;
+      background: #000000;
+      display: block;
+      position: absolute;
+      bottom: -10px;
+      content: '  '; }
+  #block-service .field--name-field-paragraph-title {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 15px; }
+  #block-service .field--name-field-paragraph-description {
+    font-size: 12px; }
+  #block-service .paragraph {
+    margin-bottom: 20px; }
 
 header.navbar {
   height: 150px;

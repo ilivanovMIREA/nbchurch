@@ -1,4 +1,40 @@
 #block-service {
   background: #ffffff;
   color: #0f0f0f;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  h2 {
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 30px;
+    position: relative;
+    text-transform: uppercase;
+
+    &:after {
+      width: 45px;
+      height: 2px;
+      background: #000000;
+      display: block;
+      position: absolute;
+      bottom: -10px;
+      content: '  ';
+    }
+  }
+
+  .field--name-field-paragraph-title {
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
+  .field--name-field-paragraph-description {
+    font-size: 12px;
+
+  }
+  .paragraph {
+
+    margin-bottom: 20px;
+  }
 }
