@@ -6388,6 +6388,33 @@ p:last-child,
       padding-left: 10px;
       line-height: 170%; }
 
+.view-id-gallery_front .views-row {
+  margin-bottom: 30px; }
+  .view-id-gallery_front .views-row .views-field-field-photo a {
+    position: relative;
+    display: block; }
+    .view-id-gallery_front .views-row .views-field-field-photo a:hover:after {
+      background: rgba(0, 0, 0, 0.5);
+      content: "+";
+      font-size: 55px;
+      font-weight: 300;
+      width: 36px;
+      text-align: center;
+      color: #fff;
+      display: block;
+      position: absolute;
+      left: 50%;
+      margin-left: -10px;
+      top: 50%;
+      margin-top: -10px; }
+    .view-id-gallery_front .views-row .views-field-field-photo a:hover:before {
+      background: rgba(0, 0, 0, 0.5);
+      width: 100%;
+      height: 100%;
+      content: " ";
+      display: block;
+      position: absolute; }
+
 @media screen and (min-width: 768px) {
   #block-drupalbook-search {
     display: none; } }

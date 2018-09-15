@@ -18,6 +18,7 @@ $wide:    "screen and (min-width: #{$screen-lg-min})";
 
 //blocks
 @import 'blocks/_background_fontpage';
+@import 'blocks/portfolio';
 @import 'blocks/search';
 @import 'blocks/services';
 

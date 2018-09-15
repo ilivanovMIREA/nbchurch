@@ -2,17 +2,450 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0f97e44-3190-42eb-a8b3-cde0a8b4ea2e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/colorbox.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/daisy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/daisy@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/homer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/marylou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/ohoopee1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/ohoopee2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/content/ohoopee3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example1/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example1/images/border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example1/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example1/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example1/images/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example1/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example2/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example2/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example2/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example3/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example3/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example3/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example4/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example4/images/border1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example4/images/border2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example4/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example5/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example5/images/border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example5/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example5/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example5/images/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/example5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-gr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-kr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-tk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/jquery.colorbox-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/jquery.colorbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/colorbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.libraries.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.links.menu.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.post_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.routing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/colorbox.theme.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/config/install/colorbox.settings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/config/schema/colorbox.schema.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/drush/colorbox.drush.inc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/images/loading_animation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/images/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/js/colorbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/src/ActivationCheck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/src/ActivationCheckInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/src/ColorboxAttachment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/src/ElementAttachmentInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/src/Form/ColorboxSettingsForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/src/Plugin/Field/FieldFormatter/ColorboxFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/default/colorbox_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/default/colorbox_style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/default/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/default/images/loading_animation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/default/images/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/plain/colorbox_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/plain/colorbox_style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/plain/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/plain/images/loading_animation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/plain/images/loading_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/stockholmsyndrome/colorbox_stockholmsyndrome_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/stockholmsyndrome/colorbox_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/stockholmsyndrome/colorbox_style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/stockholmsyndrome/images/bg_tab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/stockholmsyndrome/images/controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/styles/stockholmsyndrome/images/loading_animation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/templates/colorbox-formatter.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/tests/modules/colorbox_library_test/colorbox_library_test.info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/tests/modules/colorbox_library_test/colorbox_library_test.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/tests/modules/colorbox_library_test/colorbox_library_test.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/colorbox/tests/src/FunctionalJavascript/ColorboxJavascriptTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/DEVELOPING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/config/install/image_effects.settings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/config/schema/image_effects.schema.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/css/image_effects.admin.convolution.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/css/image_effects.admin.ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/css/image_effects.farbtastic_color_selector.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/css/image_effects.html_color_selector.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/css/image_effects.jquery_colorpicker_color_selector.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/css/image_effects.text_overlay_preview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.install" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.libraries.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.links.menu.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.post_update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.routing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/image_effects.services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/js/image_effects.admin.convolution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/js/image_effects.farbtastic_color_selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/js/image_effects.html_color_selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/js/image_effects.jquery_colorpicker_color_selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/misc/images/transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/phpcs.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Component/ColorUtility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Component/GdGaussianBlur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Component/ImageUtility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Component/PositionedRectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Component/TextUtility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Element/ImageEffectsColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Element/ImageEffectsPxPerc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Form/SettingsForm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/ImageEffectsUninstallValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/AnchorTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/AspectSwitcherImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/AutoOrientImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/BackgroundImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/BrightnessImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/ColorShiftImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/ContrastImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/ConvolutionImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/ConvolutionSharpenImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/GaussianBlurImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/ImagemagickArgumentsImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/InterlaceImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/InvertImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/MaskImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/MirrorImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/OpacityImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/ResizePercentageImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/SetCanvasImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/SetTransparentColorImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/StripMetadataImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/TextOverlayImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffect/WatermarkImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffectsFontSelectorPluginInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffectsPluginBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffectsPluginBaseInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageEffectsPluginManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/BackgroundTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/BrightnessTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/ColorshiftTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/ContrastTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/ConvolutionTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/DrawEllipseTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/DrawLineTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/DrawRectangleTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/FontOperationTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/GaussianBlurTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/ImagemagickArgumentsTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/InterlaceTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/MaskTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/MirrorTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/OpacityTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/ReplaceImageTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/SetCanvasTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/SetGifTransparentColorTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/TextOverlayTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/TextToWrapperTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/WatermarkTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/AutoOrient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Background.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Brightness.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Colorshift.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Contrast.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Convolution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/DrawEllipse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/DrawLine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/DrawRectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/GDOperationTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/GaussianBlur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/ImagemagickArguments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Interlace.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Invert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Mask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Mirror.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Opacity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/ReplaceImage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/SetCanvas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/SetGifTransparentColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Strip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/TextOverlay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/TextToWrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/gd/Watermark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/AutoOrient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Background.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Brightness.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Colorshift.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Contrast.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Convolution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/DrawRectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/GaussianBlur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/ImagemagickArguments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/ImagemagickOperationTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Interlace.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Invert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Mask.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Mirror.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Opacity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/ReplaceImage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/SetCanvas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/SetGifTransparentColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Strip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/TextToWrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/ImageToolkit/Operation/imagemagick/Watermark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/image_effects/ColorSelector/Farbtastic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/image_effects/ColorSelector/HtmlColor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/image_effects/ColorSelector/JqueryColorPicker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/image_effects/FontSelector/Basic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/image_effects/FontSelector/Dropdown.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/image_effects/ImageSelector/Basic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Plugin/image_effects/ImageSelector/Dropdown.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/ProxyClass/ImageEffectsUninstallValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Tests/Update/TextOverlayUpdateTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/src/Tests/Update/WatermarkUpdateTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-aspect-switcher.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-background-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-brightness-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-color-detail.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-color-shift-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-contrast-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-convolution-sharpen-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-convolution-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-gaussian-blur-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-imagemagick-arguments-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-interlace-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-mask-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-mirror-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-opacity-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-resize-percentage-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-set-canvas-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-set-transparent-color-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-text-overlay-preview.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-text-overlay-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/templates/image-effects-watermark-summary.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fixtures/update/d_820_ie_810a2.php.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fixtures/update/image.style.test_watermark_no_scale.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fixtures/update/image.style.test_watermark_scale.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fixtures/update/test_watermark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/Bugs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/ChangeLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/GPL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/INSTALL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LICENCE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinBiolinum_Kah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinBiolinum_RBah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinBiolinum_RIah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinBiolinum_Rah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_DRah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_I.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_Mah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_RBIah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_RBah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_RIah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_RZIah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_RZah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/LinLibertine_Rah.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/OFL-1.1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/Readme-TEX.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/fonts/LinLibertineTTF_5.3.0_2012_07_02/ToDo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/fuchsia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/image-test-exif-orientation-8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/portrait-painting.jpe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/portrait-painting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/red-on-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/images/red-on-transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/modules/image_effects_module_test/config/schema/image_effects_module_test.schema.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/modules/image_effects_module_test/image_effects_module_test.info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/modules/image_effects_module_test/src/Plugin/ImageEffect/FontSelectionImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/modules/image_effects_module_test/src/Plugin/ImageEffect/ImageSelectionImageEffect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/AspectSwitcherTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/AutoOrientTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/BackgroundTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/BrightnessTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/ColorShiftTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/ContrastTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/ConvolutionSharpenTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/ConvolutionTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/GaussianBlurTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/ImagemagickArgumentsTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/InterlaceTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/InvertTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/MaskTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/MirrorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/OpacityTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/ResizePercentageTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/SetCanvasTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/SetTransparentColorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/StripMetadataTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/TextOverlayTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/Effect/WatermarkTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/ImageEffectsTestBase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/SelectorPluginTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Functional/SettingsFormTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/image_effects/tests/src/Unit/TextUtilityTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/drupalbook/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/drupalbook/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/drupalbook/scss/blocks/_portfolio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/2018-09/IMG_2462.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/2018-09/IMG_4511.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/2018-09/IMG_4712.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/languages/ru_C-dVvGa8cgKT-Xvqq_ZtXd5l0tX8YL1GnyNapSxDenI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2018-09/IMG_2462.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2018-09/IMG_4511.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2018-09/IMG_4712.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/drupalbook.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/drupalbook.libraries.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/atob/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/atob/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/atob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/atob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-convert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-convert/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-name/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-name/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-name/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-name/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-name/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/color-name/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp-sass/node_modules/supports-color/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp-sass/node_modules/supports-color/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp-sass/node_modules/supports-color/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp-sass/node_modules/supports-color/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp-sass/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp-sass/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/gulp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/base64.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/base64.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/base64.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/base64.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/base64_utf8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/old/base64-1.7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/test-moment/dankogai.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/test-moment/es5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/test-moment/es6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/test-moment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/test-moment/large.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/test-moment/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/js-base64/test-moment/yoshinoya.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-db/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-db/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-db/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-types/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/doc/methods.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/doc/methods.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/doc/node_misc.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/doc/node_misc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/doc/object_wrappers.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/doc/object_wrappers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/nan.h" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/nan.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/nan_callbacks_12_inl.h" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/nan_callbacks_12_inl.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/nan/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/natives/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/natives/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/natives/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/natives/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/node-gyp/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/node-gyp/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/node-sass/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/node-sass/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/repeat-element/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/rimraf/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/rimraf/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/sass-graph/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/sass-graph/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/deprecated.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/deprecated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/spdx-license-ids/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/stdout-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/stdout-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/stdout-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/glob.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/glob.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/node_modules/glob/sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/node_modules/true-case-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/templates/block/block--views-block--gallery-front-block-1.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/templates/block/block--views-block--gallery-front-block-1.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/drupalbook/templates/system/container.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/templates/system/container.html.twig" afterDir="false" />
     </list>
     <ignored path="nbchurch.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="C:\OSPanel\domains\nbchurch" />
@@ -20,88 +453,120 @@
   <component name="DrupalConfiguration" enabled="true" version="8">
     <drupalPath>$PROJECT_DIR$</drupalPath>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1106392089">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="5" />
+          <entry key="scss" value="2" />
+          <entry key="twig" value="4" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="5" />
+          <entry key="SCSS" value="2" />
+          <entry key="Twig" value="4" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="18" />
+          <entry key="scss" value="282" />
+          <entry key="twig" value="63" />
+          <entry key="yml" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="18" />
+          <entry key="SCSS" value="282" />
+          <entry key="Twig" value="63" />
+          <entry key="YAML" value="53" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="nbchurch" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="paragraph--image-with-description--default.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/paragraph/paragraph--image-with-description--default.html.twig">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="158">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page--front.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page--front.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="block--service.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--service.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="56" column="27" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="container.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/container.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="block--views-block--gallery-front-block-1.html.twig" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--views-block--gallery-front-block-1.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-              <folding />
+            <state relative-caret-position="342">
+              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paragraph.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/paragraphs/templates/paragraph.html.twig">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_portfolio.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="342">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/isotope.pkgd.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1717">
-              <caret line="101" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="187">
+              <caret line="11" column="3228" selection-start-line="11" selection-start-column="3228" selection-end-line="11" selection-end-column="3228" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="block.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block.html.twig">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="42" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="325">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/field/field--block-content--field-service--four-columns.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-191">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
@@ -130,14 +595,20 @@
         <option value="$PROJECT_DIR$/themes/drupalbook/scss/component/_header.scss" />
         <option value="$PROJECT_DIR$/themes/drupalbook/scss/blocks/_background_fontpage.scss" />
         <option value="$PROJECT_DIR$/themes/drupalbook/scss/component/main_styles.scss" />
-        <option value="$PROJECT_DIR$/themes/drupalbook/scss/style.scss" />
         <option value="$PROJECT_DIR$/themes/drupalbook/templates/paragraph/paragraph--image-with-description--default.html.twig" />
         <option value="$PROJECT_DIR$/themes/drupalbook/templates/system/page--front.html.twig" />
         <option value="$PROJECT_DIR$/themes/drupalbook/templates/block/block--services.html.twig" />
         <option value="$PROJECT_DIR$/themes/drupalbook/templates/field/field--block-content--field-service--four-columns.html.twig" />
         <option value="$PROJECT_DIR$/themes/drupalbook/scss/blocks/_services.scss" />
-        <option value="$PROJECT_DIR$/themes/drupalbook/templates/system/container.html.twig" />
         <option value="$PROJECT_DIR$/themes/drupalbook/templates/block/block--views-block--gallery-front-block-1.html.twig" />
+        <option value="$PROJECT_DIR$/themes/drupalbook/templates/system/container.html.twig" />
+        <option value="$PROJECT_DIR$/themes/drupalbook/scss/style.scss" />
+        <option value="$PROJECT_DIR$/themes/drupalbook/scss/blocks/_portfolio.scss" />
+        <option value="$PROJECT_DIR$/themes/drupalbook/js/isotope.pkgd.min.js" />
+        <option value="$PROJECT_DIR$/themes/drupalbook/js/custom.js" />
+        <option value="$PROJECT_DIR$/themes/drupalbook/drupalbook.libraries.yml" />
+        <option value="$PROJECT_DIR$/themes/drupalbook/templates/views/view-view-unformatted--gallery-front--block-1.html.twig" />
+        <option value="$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig" />
       </list>
     </option>
   </component>
@@ -163,288 +634,247 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/themes/drupalbook/node_modules" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/core/assets/vendor/jquery.ui/package.json" />
+      <path value="$PROJECT_DIR$/libraries/colorbox/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bin-version-check/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/bin-version/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/find-versions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gulp-connect-php/examples/browser-sync-02/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gulp-connect-php/examples/browser-sync/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/gulp-connect-php/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semver-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semver-truncate/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semver-truncate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/themes/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/themes/drupalbook/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/themes/drupalbook/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/mikey179/vfsStream" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/easyrdf/easyrdf" />
+      <path value="$PROJECT_DIR$/vendor/jcalderonzumba/gastonjs" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-browserkit-driver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-goutte-driver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-hydrator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/jcalderonzumba/mink-phantomjs-driver" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-feed" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="61" />
+    <option name="width" value="1397" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupalbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupalbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupalbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupalbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupalbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupalbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blocks" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drupalbook" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="paragraphs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nbchurch" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="paragraphs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="block" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="paragraph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
@@ -462,30 +892,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\nbchurch\libraries" />
+      <recent name="C:\OSPanel\domains\nbchurch\modules" />
       <recent name="C:\OSPanel\domains\nbchurch\themes\drupalbook\templates" />
       <recent name="C:\OSPanel\domains\nbchurch\themes\drupalbook" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="JavaScript Debug.drupalbook.theme">
-    <configuration default="false" name="drupalbook.theme" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nbchurch/themes/drupalbook/drupalbook.theme">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
+    <configuration name="drupalbook.theme" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nbchurch/themes/drupalbook/drupalbook.theme">
+      <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
@@ -494,39 +921,32 @@
       <tasks />
       <arguments />
       <envs />
-      <method />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+    <configuration name="default" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
+      <gulpfile>$PROJECT_DIR$/themes/drupalbook/Gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
       <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
+      <method v="2" />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.drupalbook.theme" />
+    <list>
+      <item itemvalue="JavaScript Debug.drupalbook.theme" />
+      <item itemvalue="Gulp.js.default" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.drupalbook.theme" />
+      <list>
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="JavaScript Debug.drupalbook.theme" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -545,8 +965,8 @@
       <workItem from="1534957938700" duration="5529000" />
       <workItem from="1535134862285" duration="1302000" />
       <workItem from="1535188715335" duration="5341000" />
-      <workItem from="1536172997180" duration="2938000" />
-      <workItem from="1536856065425" duration="3275000" />
+      <workItem from="1536172997180" duration="2730000" />
+      <workItem from="1537000359441" duration="11739000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1533846015015</created>
@@ -639,25 +1059,11 @@
       <option name="project" value="LOCAL" />
       <updated>1536173069365</updated>
     </task>
-    <task id="LOCAL-00014" summary="Служения - верстка">
-      <created>1536176039510</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1536176039510</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Галерея">
-      <created>1536866412323</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1536866412323</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45097000" />
+    <option name="totallyTimeSpent" value="53353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -669,22 +1075,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="34" width="1295" height="693" extended-state="6" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36686838" sideWeight="0.27034122" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36686838" sideWeight="0.7296588" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5155483" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3764321" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23676248" sideWeight="0.28477904" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23676248" sideWeight="0.28477904" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" order="0" sideWeight="0.28477904" side_tool="true" weight="0.23676248" />
+      <window_info id="Gulp" order="1" sideWeight="0.3267857" side_tool="true" visible="true" weight="0.32874495" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.67321426" visible="true" weight="0.32874495" />
+      <window_info id="Structure" order="3" sideWeight="0.28477904" side_tool="true" weight="0.23676248" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="1" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.5155483" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="right" id="Database" order="0" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -724,9 +1134,7 @@
     <MESSAGE value=" Картинка на главной" />
     <MESSAGE value="Модули" />
     <MESSAGE value="Служения" />
-    <MESSAGE value="Служения - верстка" />
-    <MESSAGE value="Галерея" />
-    <option name="LAST_COMMIT_MESSAGE" value="Галерея" />
+    <option name="LAST_COMMIT_MESSAGE" value="Служения" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -745,82 +1153,9 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="5" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/default.settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11084">
-          <caret line="706" column="17" selection-start-line="706" selection-start-column="16" selection-end-line="706" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/default.services.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/example.settings.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="81" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/example.sites.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/development.services.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/config/schema/drupalbook.schema.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.info.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -829,32 +1164,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/config/install/drupalbook.settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/example.settings.local.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
-          <caret line="81" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <caret line="81" column="51" selection-end-line="92" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/example.sites.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/config/schema/drupalbook.schema.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -871,11 +1198,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/default.services.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/development.services.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -914,11 +1237,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/component/_navbar.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -928,11 +1247,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/pages/_frontpage.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_search.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -947,7 +1262,7 @@
         <state relative-caret-position="187">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="40" />
           <folding>
-            <element signature="e#6#93#0#PHP" expanded="false" />
+            <element signature="e#6#93#0#PHP" />
           </folding>
         </state>
       </provider>
@@ -970,7 +1285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,142 +1292,153 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/style.scss">
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/paragraph/paragraph--image-with-description--default.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="765">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_services.scss">
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page--front.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="2567">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/field/field--block-content--field-service--four-columns.html.twig">
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--service.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="952">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/field/field.html.twig">
+    <entry file="file://$PROJECT_DIR$/modules/paragraphs/templates/paragraph.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="782">
+          <caret line="46" column="2" selection-end-line="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1717">
-          <caret line="101" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-          <folding />
+          <caret line="101" column="10" selection-end-line="187" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/paragraphs/templates/paragraph.html.twig">
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_services.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-table.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-view.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-867">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--system-menu-block--main.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-exposed-form.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/paragraph/paragraph--image-with-description--default.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page--front.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--service.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="56" column="27" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="359">
+          <caret line="36" selection-start-line="36" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/container.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="393">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/image_effects/js/image_effects.admin.convolution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/field/field.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-end-line="81" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="42" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="268">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="6499" column="6" selection-start-line="6499" selection-start-column="6" selection-end-line="6499" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/field/field--block-content--field-service--four-columns.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/colorbox/js/colorbox.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/isotope.pkgd.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3228" selection-start-line="11" selection-start-column="3228" selection-end-line="11" selection-end-column="3228" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--views-block--gallery-front-block-1.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="342">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
