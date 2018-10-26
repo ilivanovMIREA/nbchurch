@@ -11,5 +11,22 @@ function drupalbook_preprocess_block(&$variables){
         $url = file_create_url($variables['content']['#block_content']->field_background_image->entity->getFileUri());
         $variables['background_image_url'] = $url;
     }
+}
 
+function drupalbook_preprocess_views_view_unformatted(&$variables){
+    $test = 'skf';
+    if(!empty($variables['rows'][0]['content']['#row'])){
+        foreach ($variables['rows'] as $key => $row) {
+
+        $arr = $row['content']['#row']->{'_entity'}->field_category_gallety;
+      //  foreach( $arr as $key ){
+       //     $a = $arr->$key;
+       // }
+         //   $variables['rows'][$key]['category_id'] = 'category-'. $a;
+
+            //var_dump( (array) $a);
+//print_r($row['content']['#row']);
+//exit();
+        }
+    }
 }
