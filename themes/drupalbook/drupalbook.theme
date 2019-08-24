@@ -1,10 +1,4 @@
 <?php
-/**
- * @file
- * Bootstrap sub-theme.
- *
- * Place your custom PHP code in this file.
- */
 
 function drupalbook_preprocess_block(&$variables){
     if($variables['elements']['#id'] == 'fonnaglavnuu'){
@@ -14,19 +8,14 @@ function drupalbook_preprocess_block(&$variables){
 }
 
 function drupalbook_preprocess_views_view_unformatted(&$variables){
-    $test = 'skf';
+
+
     if(!empty($variables['rows'][0]['content']['#row'])){
         foreach ($variables['rows'] as $key => $row) {
 
-        $arr = $row['content']['#row']->{'_entity'}->field_category_gallety;
-      //  foreach( $arr as $key ){
-       //     $a = $arr->$key;
-       // }
-         //   $variables['rows'][$key]['category_id'] = 'category-'. $a;
-
-            //var_dump( (array) $a);
-//print_r($row['content']['#row']);
-//exit();
+            //echo gettype($row['content']['#row']->{'_entity'});
+           // exit;
+            $variables['rows'][$key]['category_id'] = 'category-'.$row['content']['#row']->{'_entity'}->field_category_gallety->target_id;
         }
     }
 }

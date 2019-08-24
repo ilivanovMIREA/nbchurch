@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0f97e44-3190-42eb-a8b3-cde0a8b4ea2e" name="Default" comment="Фотогалерея">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/2018-09/IMG_4679.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2018-09/IMG_4679.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/drupalbook/drupalbook.theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/drupalbook.theme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig" afterDir="false" />
     </list>
     <ignored path="nbchurch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,41 +31,50 @@
     <session id="-1106392089">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="" value="2" />
           <entry key="46" value="1" />
-          <entry key="js" value="6" />
+          <entry key="PNG" value="1" />
+          <entry key="js" value="8" />
+          <entry key="php" value="4" />
           <entry key="scss" value="2" />
           <entry key="theme" value="1" />
-          <entry key="twig" value="4" />
+          <entry key="twig" value="10" />
           <entry key="xdg-open" value="1" />
-          <entry key="yml" value="1" />
+          <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="9" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="11" />
+          <entry key="PHP" value="4" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SCSS" value="2" />
-          <entry key="Twig" value="4" />
-          <entry key="YAML" value="1" />
+          <entry key="Twig" value="10" />
+          <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="23" />
           <entry key="scss" value="282" />
-          <entry key="theme" value="692" />
-          <entry key="twig" value="82" />
+          <entry key="theme" value="923" />
+          <entry key="twig" value="102" />
           <entry key="txt" value="16" />
           <entry key="yml" value="53" />
         </counts>
@@ -70,9 +82,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="23" />
-          <entry key="PLAIN_TEXT" value="708" />
+          <entry key="PLAIN_TEXT" value="939" />
           <entry key="SCSS" value="282" />
-          <entry key="Twig" value="82" />
+          <entry key="Twig" value="102" />
           <entry key="YAML" value="53" />
         </counts>
       </usages-collector>
@@ -83,41 +95,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_portfolio.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/isotope.pkgd.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="11" column="3228" selection-start-line="11" selection-start-column="3228" selection-end-line="11" selection-end-column="3228" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.theme">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="289">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97">
+              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--page-title-block.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/modules/views/js/base.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -126,14 +144,9 @@
         <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="23" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -181,8 +194,8 @@
         <option value="$PROJECT_DIR$/themes/drupalbook/js/custom.js" />
         <option value="$PROJECT_DIR$/themes/drupalbook/drupalbook.libraries.yml" />
         <option value="$PROJECT_DIR$/themes/drupalbook/templates/views/view-view-unformatted--gallery-front--block-1.html.twig" />
-        <option value="$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig" />
         <option value="$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig" />
+        <option value="$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig" />
         <option value="$PROJECT_DIR$/themes/drupalbook/drupalbook.theme" />
       </list>
     </option>
@@ -273,7 +286,12 @@
       <path value="$PROJECT_DIR$/themes/drupalbook/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpDebugGeneral" listening_started="true" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="83d554f7-5084-4041-839c-155d92408d85" name="localhost" />
+    </servers>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
@@ -343,7 +361,8 @@
       <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
+  <component name="ProjectFrameBounds">
     <option name="x" value="12" />
     <option name="y" value="123" />
     <option name="width" value="1890" />
@@ -367,40 +386,6 @@
             <path>
               <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
               <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -408,45 +393,6 @@
               <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="block" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="paragraph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="system" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nbchurch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nbchurch" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="drupalbook" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -547,6 +493,13 @@
       <workItem from="1537894353881" duration="7050000" />
       <workItem from="1538217324108" duration="715000" />
       <workItem from="1539340072910" duration="682000" />
+      <workItem from="1540558165621" duration="3649000" />
+      <workItem from="1542484962735" duration="928000" />
+      <workItem from="1553697827229" duration="6000" />
+      <workItem from="1560456225391" duration="644000" />
+      <workItem from="1563168950371" duration="1888000" />
+      <workItem from="1563254515504" duration="10257000" />
+      <workItem from="1566629903291" duration="2549000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1533846015015</created>
@@ -646,11 +599,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537037708387</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Фотогалерея">
+      <created>1540558217023</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540558217023</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69454000" />
+    <option name="totallyTimeSpent" value="89375000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -662,19 +622,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="34" width="1295" height="693" extended-state="7" />
-    <editor active="true" />
+    <frame x="8" y="82" width="1260" height="620" extended-state="0" />
     <layout>
-      <window_info id="Favorites" order="0" sideWeight="0.32978722" side_tool="true" weight="0.3902834" />
-      <window_info id="Gulp" order="1" sideWeight="0.33088234" side_tool="true" weight="0.3902834" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.67021275" visible="true" weight="0.1902834" />
-      <window_info id="Structure" order="3" sideWeight="0.33088234" side_tool="true" weight="0.3902834" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4979757" weight="0.32857144" />
+      <window_info id="Favorites" order="0" sideWeight="0.33846155" side_tool="true" weight="0.27728376" />
+      <window_info id="Gulp" order="1" sideWeight="0.33846155" side_tool="true" weight="0.27728376" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.7492877" visible="true" weight="0.2725" />
+      <window_info id="Structure" order="3" sideWeight="0.25071225" side_tool="true" visible="true" weight="0.2725" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4968017" weight="0.32751092" />
       <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49635628" weight="0.32857144" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4923077" weight="0.56964284" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5060729" side_tool="true" visible="true" weight="0.34642857" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49392712" visible="true" weight="0.34642857" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48987207" visible="true" weight="0.24344978" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5101279" side_tool="true" visible="true" weight="0.27926078" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49200428" weight="0.34606987" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49959514" weight="0.32857144" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
@@ -737,12 +696,14 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint type="javascript">
+        <line-breakpoint enabled="true" type="javascript">
+          <dependency id="0" />
           <url>mock://chrome-error://chromewebdata/</url>
           <line>18</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
-        <breakpoint enabled="true" type="php-exception">
+        <breakpoint type="php-exception">
+          <dependency leave-enabled="true" master-id="0" />
           <properties name="test" />
           <option name="timeStamp" value="7" />
         </breakpoint>
@@ -751,11 +712,18 @@
         <breakpoints-dialog />
       </breakpoints-dialog>
       <default-breakpoints>
-        <breakpoint enabled="true" log-message="true" type="javascript-exception">
+        <breakpoint log-message="true" type="javascript-exception">
+          <dependency id="0" />
           <properties />
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="$test" language="JavaScript" />
+        <watch expression="$test" language="JavaScript" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -767,68 +735,13 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.info.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/config/install/drupalbook.settings.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/example.settings.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="81" column="51" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/example.sites.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/config/schema/drupalbook.schema.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="689" column="8" selection-start-line="689" selection-start-column="8" selection-end-line="689" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/default.services.yml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/development.services.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/default.settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11084">
           <caret line="706" column="17" selection-start-line="706" selection-start-column="16" selection-end-line="706" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="81" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
         </state>
       </provider>
     </entry>
@@ -924,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="101" column="10" selection-end-line="187" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_services.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -957,13 +863,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -973,20 +872,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/colorbox/js/colorbox.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -1016,6 +901,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/isotope.pkgd.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" column="3228" selection-start-line="11" selection-start-column="3228" selection-end-line="11" selection-end-column="3228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/images/logo.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/scss/blocks/_portfolio.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1023,32 +918,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/isotope.pkgd.min.js">
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="11" column="3228" selection-start-line="11" selection-start-column="3228" selection-end-line="11" selection-end-column="3228" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-table.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/bootstrap/templates/views/views-view-table.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/field/field-multiple-value-form.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/modules/views/templates/views-view-unformatted.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        <state relative-caret-position="408">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block--page-title-block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/block/block.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/views/js/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/views/views-view-unformatted--gallery-front--block-1.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/field/field--block-content--field-service--four-columns.html.twig">
       <provider selected="true" editor-type-id="text-editor">
@@ -1057,10 +1009,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/drupalbook/templates/system/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/development.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/example.settings.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1035" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/drupalbook/drupalbook.theme">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
